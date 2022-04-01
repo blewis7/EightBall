@@ -1,0 +1,12 @@
+.Eightball-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    font-size: 40px;
+    margin: 50px;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+}
